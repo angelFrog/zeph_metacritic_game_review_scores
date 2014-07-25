@@ -58,7 +58,7 @@ def start(systems):
     scraperwiki.sqlite.commit()
 
 
-systems = ["wii-u","ps3","xbox360","wii","3ds","ds","vita","psp"];
+systems = ["ps4","xboxone","wii-u","ps3","xbox360","wii","3ds","ds","vita","psp"];
 max_pages = 1
 
 start(systems)
