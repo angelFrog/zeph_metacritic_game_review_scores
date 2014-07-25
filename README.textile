@@ -1,0 +1,12 @@
+Scrape release date, score and publisher from recent and upcoming games.
+
+Current systems:
+* Wii U
+* PS3
+* Xbox 360
+* Wii
+* Vita
+* PSP
+* 3DS
+* DS
+
